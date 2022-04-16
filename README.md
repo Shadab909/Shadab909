@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shadab909
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Java and Android Studio
+- 🌱 I’m currently learning Java and Android Development(Kotlin)
 - 📫 One can reach me at gmail- sadabkhan90063@gmail.com
 
 <!---
