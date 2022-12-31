@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shadab909
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning DSA(JAVA) and Android Development(Kotlin)
+- 🌱 I’m currently learning DSA(JAVA) and Android Development(Kotlin+Java)
 - 📫 One can reach me at gmail- sadabkhan90063@gmail.com
 
 <!---
